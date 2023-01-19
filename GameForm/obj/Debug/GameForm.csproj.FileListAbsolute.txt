@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\GameForm\bin\Debug\GameForm.exe.config
+C:\Users\User\source\repos\GameForm\bin\Debug\GameForm.exe
+C:\Users\User\source\repos\GameForm\bin\Debug\GameForm.pdb
+C:\Users\User\source\repos\GameForm\obj\Debug\GameForm.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\GameForm\obj\Debug\GameForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\GameForm\obj\Debug\GameForm.Properties.Resources.resources
+C:\Users\User\source\repos\GameForm\obj\Debug\GameForm.csproj.GenerateResource.cache
+C:\Users\User\source\repos\GameForm\obj\Debug\GameForm.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\GameForm\obj\Debug\GameForm.exe
+C:\Users\User\source\repos\GameForm\obj\Debug\GameForm.pdb
+C:\Users\User\source\repos\GameForm\obj\Debug\GameForm.GameForm.resources
